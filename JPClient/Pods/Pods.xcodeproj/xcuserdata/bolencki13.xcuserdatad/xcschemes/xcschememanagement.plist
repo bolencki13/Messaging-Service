@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ChameleonFramework.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>CocoaAsyncSocket.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>JSQMessagesViewController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>JSQSystemSoundPlayer.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JPClient.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2EFEDBB649146422B0A076290AB959DE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>48F687CDE9990BD471D7883061F7E5D4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F29AD11730373790E32227E3DFD8EE3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>935A7E52B6D8B7E37EAEA138EDC52155</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D607CE439EBD256738A38E8D3933E56F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

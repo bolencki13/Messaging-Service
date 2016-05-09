@@ -1,0 +1,5 @@
+target 'JPClient' do
+	pod 'ChameleonFramework'
+	pod 'CocoaAsyncSocket'
+	pod 'JSQMessagesViewController'
+end
